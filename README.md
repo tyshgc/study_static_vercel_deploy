@@ -1,0 +1,1 @@
+# study_static_vercel_deploy
